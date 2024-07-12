@@ -237,3 +237,12 @@ From the analysis, several general insights emerged:
 ### Closing Thoughts
 
 This project enhanced my SQL skills and provided valuable insights into the data analyst job market. While I sharpen my skills with a wide range of technicues in Data Science world, I also have gained usefull knowledge to prioritizing skill development and job search efforts. This exploration highlights the importance of continuous learning and adaptation to emerging trends in the field of data analytics.
+
+### Contact
+
+For thoughts and any suggestion, please contact me vie: 
+
+-- email: daniel.david@columbia.edu
+-- LinkIdin:  www.linkedin.com/in/daniel-david-453806205
+
+
