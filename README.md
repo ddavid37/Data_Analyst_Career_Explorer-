@@ -242,7 +242,7 @@ This project enhanced my SQL skills and provided valuable insights into the data
 
 For thoughts and any suggestion, please contact me vie: 
 
--- email: daniel.david@columbia.edu
--- LinkIdin:  www.linkedin.com/in/daniel-david-453806205
+--- email: daniel.david@columbia.edu
+--- LinkIdin:  www.linkedin.com/in/daniel-david-453806205
 
 
