@@ -188,12 +188,12 @@ GROUP BY
     skills_dim.skill_id
 HAVING
     COUNT(skills_job_dim.job_id) > 10
-ORDER BY
+ORDER BY 
     avg_salary DESC,
     demand_count DESC
 LIMIT 25;
 ```
-
+ 
 | Skill ID | Skills     | Demand Count | Average Salary ($) |
 |----------|------------|--------------|-------------------:|
 | 8        | go         | 27           |            115,320 |
