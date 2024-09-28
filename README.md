@@ -1,31 +1,31 @@
-# Introduction
-📊 Dive into the data job market! Focusing on data analyst roles, this project explores 💰 top-paying jobs, 🔥 in-demand skills, and 📈 where high demand meets high salary in data analytics.    
+# Data Analyst Job Market Analysis
 
-🔍 SQL queries? Check them out here: [project_sql folder](/project_sql/)
+## Introduction
+📊 Let's dive into the data job market! This project zooms in on data analyst roles, uncovering 💰 top-paying positions, 🔥 essential skills, and 📈 where high demand meets high salaries in the world of data analytics.
 
-# Background
+🔍 Interested in SQL queries? You can explore them in the `project_sql` folder.
 
-### The questions I wanted to answer through my SQL queries were:
+## Background
+The key questions I set out to answer through my SQL queries include:
+- What are the highest-paying data analyst jobs?
+- What skills are required for these top-paying positions?
+- Which skills are most in demand for data analysts?
+- Which skills correlate with higher salaries?
+- What are the most valuable skills to learn for career growth?
 
-1. What are the top-paying data analyst jobs?
-2. What skills are required for these top-paying jobs?
-3. What skills are most in demand for data analysts?
-4. Which skills are associated with higher salaries?
-5. What are the most optimal skills to learn?
+## Tools I Used
+To conduct my analysis of the data analyst job market, I utilized several essential tools:
 
-# Tools I Used
-For my deep dive into the data analyst job market, I harnessed the power of several key tools:
+- **SQL**: The foundation of my analysis, helping me query the database and uncover key insights.
+- **PostgreSQL**: The database management system I used to manage job posting data.
+- **Visual Studio Code**: My preferred tool for managing databases and running SQL queries.
+- **Git & GitHub**: Crucial for version control, sharing SQL scripts, and ensuring collaboration and project transparency.
 
-- **SQL:** The backbone of my analysis, allowing me to query the database and unearth critical insights.
-- **PostgreSQL:** The chosen database management system, ideal for handling the job posting data.
-- **Visual Studio Code:** My go-to for database management and executing SQL queries.
-- **Git & GitHub:** Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
-
-# The Analysis
-Each query for this project aimed at investigating specific aspects of the data analyst job market. Here’s how I approached each question:
+## The Analysis
+Each query in this project was designed to investigate different aspects of the data analyst job market. Here's my approach:
 
 ### 1. Top Paying Data Analyst Jobs
-To identify the highest-paying roles, I filtered data analyst positions by average yearly salary and location, focusing on remote jobs. This query highlights the high paying opportunities in the field.
+To identify the highest-paying roles, I filtered data analyst positions by average annual salary and location, with a focus on remote opportunities. This query pinpoints the top-paying roles in the field.
 
 ```sql
 SELECT	
